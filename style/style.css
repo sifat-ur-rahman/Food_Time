@@ -1,0 +1,19 @@
+.bg-image {
+    background-image: url('../image/Rectangle.png');
+    background-size: cover;
+    background-position: center;
+    
+  }
+
+.hade-text{
+    font-family: 'Merienda';
+/* font-style: normal; */
+font-weight: 700;
+font-size: 65px;
+line-height: 130%;
+
+color: #396C03;
+}
+.order-bg-image{
+    background-image: url('../image/image 2.png');
+}
